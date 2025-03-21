@@ -10,7 +10,6 @@ passw0rd
 passwordpassword
 qwerty
 nopassw0rd
-0000
 windows
 elite
 www
