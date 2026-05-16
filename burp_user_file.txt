@@ -1,4 +1,0 @@
-root
-admin
-administrador
-user
